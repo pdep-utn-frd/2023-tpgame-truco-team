@@ -1,0 +1,5 @@
+//simport objetosDeclaracion.*
+import pacmanEjemplo.*
+
+program start{
+    pantalla.iniciar()}
